@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LADM_U1_Practica1_LayoutMasLayout</string>
+    <string name="tab_text_1">Contact</string>
+    <string name="tab_text_2">Models</string>
+
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Tu telefono</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync Notifications</string>
+    <string name="attachment_title">Download Models</string>
+    <string name="attachment_summary_on">Automatically download number to you
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_basic_album">BasicAlbumActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Album de los Vestidos</string>
+    <string name="second_fragment_label">Contacto</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
